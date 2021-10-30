@@ -1,0 +1,11 @@
+{
+  "Timestamp": "2021-10-29T23:27:02.9655243+02:00",
+  "Level": "Information",
+  "MessageTemplate": "App Starting",
+  "Properties": { "ApplicationName": "CourseLibrary.API" }
+} {
+  "Timestamp": "2021-10-29T23:29:10.1595997+02:00",
+  "Level": "Information",
+  "MessageTemplate": "App Starting",
+  "Properties": { "ApplicationName": "CourseLibrary.API" }
+}
